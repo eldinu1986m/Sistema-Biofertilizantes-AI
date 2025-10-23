@@ -32,15 +32,13 @@ reporte_esg.xlsx: Exportación de datos.
 ## Capturas de Pantalla
 
 ### Gráfico de Emisiones de CO2
-<image-card alt="Gráfico de Emisiones" src="capturas/grafico_emisiones.png" ></image-card>
+![Gráfico de Emisiones](capturas/grafico_emisiones.png)
 
 ### Dashboard ESG - Comparación de Scores
-<image-card alt="Dashboard ESG" src="capturas/dashboard_esg.png" ></image-card>
+![Dashboard ESG](capturas/dashboard_esg.png)
 
 ### Formulario de Ingreso de Datos
-<image-card alt="Formulario" src="capturas/formulario.png" ></image-card>
-
-
+![Formulario](capturas/formulario.png)
 
 Contribución
 Proyecto inspirado en la sostenibilidad y biofertilizantes. ¡Bienvenido a contribuir!
