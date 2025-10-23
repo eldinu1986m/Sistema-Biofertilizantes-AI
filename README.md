@@ -22,10 +22,10 @@ Reduce emisiones CO₂ y regenera suelos con IA.
 ## Capturas
 
 ### Formulario + Recomendación
-![Formulario](capturas/formulario.png)
+![Formulario](capturas/Formulario%20llenar%20+%20recomendaci%C3%B3n.png)
 
 ### Dashboard
-![Dashboard](capturas/dashboard.png)
+![Dashboard](capturas/Dashboard%20con%20barras%20y%20tabla.png)
 
 ---
 
