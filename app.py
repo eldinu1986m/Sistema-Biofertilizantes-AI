@@ -6,8 +6,10 @@ import sqlite3
 import os
 import requests
 
+st.set_page_config(layout="wide")
+
 # Configuración
-st.set_page_config(page_title="Biofertilizantes AI", page_icon="leaf")
+st.set_page_config(page_title="Biofertilizantes AI", page_icon="leaf", layout="wide")
 st.title("Sistema de Recomendación de Biofertilizantes con IA")
 st.markdown("### Para Pymes Agroindustriales Sostenibles")
 
