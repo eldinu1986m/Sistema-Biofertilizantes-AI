@@ -28,15 +28,17 @@ datos_esg.csv: Datos iniciales.
 db.sqlite: Base de datos.
 reporte_esg.xlsx: Exportación de datos.
 
-Capturas
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/50f7a865-af86-4999-bf60-e59268f5669f" />
+## Capturas de Pantalla
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/8303018e-0ed1-4bd3-95ae-75b282aabb74" />
+### Gráfico de Emisiones de CO2
+<image-card alt="Gráfico de Emisiones" src="capturas/grafico_emisiones.png" ></image-card>
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/046f6264-e9e2-44dc-8307-01d8aaaf41b8" />
+### Dashboard ESG - Comparación de Scores
+<image-card alt="Dashboard ESG" src="capturas/dashboard_esg.png" ></image-card>
 
-
+### Formulario de Ingreso de Datos
+<image-card alt="Formulario" src="capturas/formulario.png" ></image-card>
 
 
 
