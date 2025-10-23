@@ -1,0 +1,11 @@
+# Base de datos
+bio_db.sqlite
+
+# Reportes
+reporte_*.xlsx
+
+# Entornos
+__pycache__/
+*.pyc
+.env
+.conda
